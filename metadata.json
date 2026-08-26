@@ -1,0 +1,6 @@
+{
+  "name": "PackCalc Niyomkij - Smart BOM Packaging Estimator",
+  "description": "Smart packaging cost calculator with customer-specific price revision tracking, legacy Excel/CSV file importer with auto-field mapping, industrial cut sheet optimizer, volume tiered pricing comparison, and factory job ticket generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
